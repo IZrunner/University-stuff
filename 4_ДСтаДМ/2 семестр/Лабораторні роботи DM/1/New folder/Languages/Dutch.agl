@@ -1,0 +1,614 @@
+; Created by Renze Feitsma
+
+;Dutch translation for Advanced Grapher from Alentum Software, Inc.
+;Advanced Grapher version 2.0
+;Translation version 2.0.3
+;August 15th 2001
+
+;Nederlandse vertaling voor Advanced Grapher van Alentum Software, Inc.
+;Advanced Grapher versie 2.0
+;Vertaling versie 2.0.3
+;15 augustus 2001
+
+;===============================================================================
+"Cancel"="Annuleren"
+"Help"="Help"
+"Info"="Info"
+"Error"="Fout"
+"Confirm"="Bevestig"
+"&Yes"="&Ja"
+"&No"="&Nee"
+"Delete"="Verwijderen"
+"Ready"="Gereed"
+"Not enough memory"="Niet genoeg geheugen"
+"(Empty)"="(Leeg)"
+"item"="nummer"
+"items"="nummers"
+"Table:"="Tabel:"
+"This value must be a positive\nnumber up to %s"="Het moet een positief\ngetal zijn tot maximaal %s"
+"This value must be a natural\nnumber up to %s"="Het moet een natuurlijk\ngetal zijn tot maximaal %s"
+"This value must be an integer\nfrom %s up to %s"="Het moet een geheel getal\nzijn tussen %s en %s"
+"This value must be a number\nfrom %s up to %s"="Het moet een getal zijn\nvan %s tot %s"
+"Maximum of %s must be more\nthan minimum of %s"="Het maximum van %s moet groter\nzijn dan het minimum van %s"
+
+;===============================================================================
+; Graph Types
+"polar coordinate system"="poolcoördinaten"
+"X(t) and Y(t) - parametrical equations"="X(t) en Y(t) - parametervergelijkingen"
+"f(x,y)>|=|<0 - equation or inequality"="f(x,y)>|=|<0 - impliciete vergelijking of ongelijkheid"
+"dy/dx or dx/dy - slope field"="dy/dx of dx/dy - lijnelementen-veld"
+"Table"="Tabel"
+
+;===============================================================================================================
+; Error Types
+"syntax error"="fout genoteerd"
+"discordance of lexems"="niet in de goede vorm"
+"not enough ')'"="niet genoeg ')'"
+"not enough '('"="niet genoeg '('"
+
+
+;===============================================================================
+;Toolbar Manager
+"Rename Toolbar"="Werkbalknaam wijzigen"
+"&Toolbar name:"="&Werkbalknaam"
+"Are you sure you want to reset the changes made to the '%s' toolbar?"="Weet u zeker dat u de wijzigingen aan '%s' werkbalk ongedaan wilt maken?"
+"This will delete the record of the commands you've used in this application and restore the default set of visible commands to the menus and toolbars. It will not undo any explicit customizations.   Are you sure you want to proceed?"="De record van de opdrachten die u in deze toepassing hebt gebruikt, wordt verwijdert en de standaardmenu's en -werkbalken worden hersteld. Eventuele expliciete aanpassingen worden niet ongedaan gemaakt. Weet u zeker dat u dit wilt doen?"
+"Are you sure you want to delete the '%s' toolbar?"="Weet u zeker dat u de werkbalk '%s' wilt verwijderen?"
+"Personalized Menus and Toolbars"="Aangepaste menu's en werkbalken"
+"Me&nus show recently used commands first"="Laatst ge&bruikte opdrachten eerst weergeven in menu's"
+"Show f&ull menus after a short delay"="&Volledige menu's weergeven na een korte vertraging"
+"&Reset my usage data"="Gebruikersgegevens opnieuw &instellen"
+"A command name cannot be blank. Please enter a name."="Opdrachtnamen kunnen niet leeg zijn. Vul een naam in."
+"A toolbar named '%s' already exists. Type another name."="Een werkbalk genaamd '%s' bestaat al. Vul een andere naam in."
+"Toolbars"="Werkbalken"
+"Commands"="Opdrachten"
+"Options"="Opties"
+"Toolb&ars:"="Werk&balken:"
+"&New..."="&Nieuw..."
+"R&ename..."="Naam &wijzigen..."
+"&Delete"="&Verwijderen"
+"&Reset..."="B&eginwaarden..."
+"Cate&gories:"="&Categorieën:"
+"Comman&ds:"="&Opdrachten"
+"Description"="Omschrijving"
+"&Customize..."="&Aanpassen..."
+"&Add or Remove Buttons"="&Knoppen toevoegen of verwijderen"
+"More Buttons"="Meer knoppen"
+"&Reset Toolbar"="Werkbalk herstellen"
+"&Reset"="&Beginwaarden"
+"&Delete"="&Verwijderen"
+"&Name:"="&Naam:"
+"Defa&ult style"="&Standaarstijl"
+"&Text Only (Always)"="Alleen tekst (alt&ijd)"
+"Text &Only (in Menus)"="&Alleen tekst (in menu's)"
+"Image &and Text"="A&fbeelding en tekst"
+"Begin a &Group"="&Groep beginnen"
+"Other"="Overige"
+"&Large icons"="&Grote pictogrammen"
+"Show Tool&Tips on toolbars"="S&cherminfo weergeven op werkbalken"
+"Show s&hortcut keys in ToolTips"="Snel&toetsen weergeven in Scherminfo"
+"&Menu animations:"="&Menu-animaties:"
+"(None)"="(Geen)"
+"Random"="Willekeurig"
+"Unfold"="Openvouwen"
+"Slide"="Schuiven"
+"Custom"="Aangepast"
+
+;===============================================================================
+;Menu and Toolbars
+"Main Menu"="Menubalk"
+"Standard"="Standaard"
+"Graph"="Grafiek"
+"Calculus"="Algebra"
+
+;===============================================================================
+;Categories
+"File"="Bestand"
+"Edit"="Bewerken"
+"View"="Beeld"
+"Graphs"="Grafiek"
+"Calculus"="Algebra"
+"Window"="Venster"
+"Help"="Help"
+"Menus"="Menu's"
+"Intervals"="Intervallen"
+"Properties"="Eigenschappen"
+
+;===============================================================================
+;File
+"&File"="&Bestand"
+"&New"="&Nieuw"
+"&Open..."="&Open..."
+"I&mport Table..."="&Importeer tabel..."
+"&Save"="Op&slaan"
+"Save &As..."="Ops&laan als..."
+"Save As Pict&ure..."="Opslaan als &figuur"
+"E&xport Table..."="&Exporteer tabel"
+"Pa&ge Setup..."="&Pagina-instelling"
+"&Print..."="&Afdrukken"
+"List of recently used files"="Lijst met recent geopende bestanden"
+"&Exit"="Afsluit&en"
+
+;===============================================================================
+;Edit
+"&Edit"="Be&werken"
+"&Undo"="&Ongedaan maken"
+"&Redo"="Op&nieuw"
+"&Copy As Picture..."="&Kopiëer als figuur..."
+"Draw &Labels"="Teken &labels"
+"&Options..."="&Voorkeuren"
+
+;===============================================================================
+;View
+"&View"="B&eeld"
+"&Graph List"="&Grafieken-lijst"
+"&Toolbars"="&Werkbalken"
+"&Flat Interface"="&Platte interface"
+"&Full Screen"="&Volledig scherm"
+
+;===============================================================================
+;Graphs
+"&Graphs"="&Grafieken"
+"&Add Graph..."="&Grafiek toevoegen"
+"Add &Table Graph..."="&Voeg tabel-grafiek toe"
+"Delete Graph"=Verwijder grafiek""
+"Duplicate Graph"="Verdubbel grafiek"
+"&Finish Calculating"="&Beëindig het rekenen"
+"&Document Properties..."="&Document eigenschappen..."
+"&Sets of Properties"="&Eigenschapsets"
+"Standard &Properties"="&Standaard-eigenschappen"
+"&Standard Intervals"="Standaard-&intervallen"
+"&Trigonometrical Set"="&Goniometrische lijst"
+"Default &Graph Properties..."="Standaard &grafiek-eigenschappen..."
+
+;===============================================================================
+;Calculus
+"&Calculus"="&Algebra"
+"Calc&ulator"="&Rekenmachine"
+"&Function Calculator..."="F&unctie-rekenmachine"
+"&Value Table..."="&Waardentabel"
+"&Analyze Function..."="&Functie-analyse"
+"Inter&sections..."="&Snij/raakpunten..."
+"&Derivative..."="&Afgeleide"
+"&Tangent or Normal..."="Raaklijn of &normaal"
+"&Integration..."="&Integreren..."
+"&Regression..."="Re&gressie"
+
+;===============================================================================
+;Window
+"&Window"="&Venster"
+"&Cascade"="&Overlappen"
+"Tile &Horizontally"="&Horizontaal"
+"Tile &Vertically"="&Verticaal"
+"&Arrange Icons"="&Pictogrammen ordenen"
+"&Minimize All"="&Minimaliseren"
+"List of Current Windows"="Lijst met huidige vensters"
+
+;===============================================================================
+;Help
+"&Help"="&Help"
+"&Contents"="&Help-onderwerpen"
+"&About..."="&Info..."
+
+;===============================================================================
+;Intervals
+"Zoom Out X and Y"="X en Y uitzoomen"
+"Zoom Out Y"="Y uitzoomen"
+"Zoom Out X"="X uitzoomen"
+"Zoom In X and Y"="X en Y inzoomen"
+"Zoom In Y"="Y inzoomen"
+"Zoom In X"="X inzoomen"
+"Move to the Left"="Naar links verplaatsen"
+"Move to the Right"="Naar rechts verplaatsen"
+"Move Upwards"="Naar boven verplaatsen"
+"Move Downwards"="Naar beneden verplaatsen"
+"Select interval"="Selecteer interval"
+"Center view"="Oosprong in het centrum plaatsen"
+
+;===============================================================================
+;Properties
+"Graph List"="Grafieken-lijst"
+"Draw Graph"="Teken grafiek"
+"Draw with Lines"="Tekenen met lijnen"
+"Line Width"="Lijndikte"
+"Style of Shading"="Arceerstijl"
+"Draw with Points"="Teken met punten"
+"Point Size"="Puntgrootte"
+"Point Style"="Puntstijl"
+"Line Style"="Lijnstijl"
+"Graph Color"="Grafiekkleur"
+"Properties"="Eigenschappen"
+"Graph Properties"="Grafiek-eigenschappen"
+"Trace"="Volg"
+
+;===============================================================================
+;Other items
+"Horizontal Grid Lines"="Horizontale roosterlijnen"
+"Vertical Grid Lines"="Verticale roosterlijnen"
+"Advanced Grapher files (*.agr)"="Advanced Grapher bestanden (*.agr)"
+"All files (*.*)"="Alle bestanden (*.*)"
+"Bitmap files (*.bmp)"="Bitmapbestanden (*.bmp)"
+"EMF files (*.emf)"="EMF bestanden (*.emf)"
+"GIF files (*.gif)"="GIF bestanden (*.gif)"
+"Text files (*.txt)"="Tekstbestanden (*.txt)"
+"Text files (*.txt;*.csv)"="Tekstbestanden (*.txt;*.csv)"
+
+"Converting to EMF:"="Bezig met converteren naar EMF:"
+"Saving EMF:"="Bezig met opslaan van EMF:"
+"Creating picture..."="Bezig met maken van figuur..."
+"Saving picture..."="Bezig met opslaan van figuur..."
+"Printing..."="Bezig met afdrukken..."
+"Printing"="Bezig met afdrukken"
+"Copying picture..."="Bezig met figuur kopiëren"
+"Graph N"="Grafiek N"
+"Press Esc to interrupt the calculation"="Toets Esc om de berekening af te breken"
+
+;===============================================================================
+;Questions
+"Save changes to %s?"="Wilt u de wijzigingen in %s opslaan?"
+"Do you want to remove the graph?"="Weet u zeker dat u de grafiek wilt verwijderen?"
+
+;===============================================================================
+;Error messages
+"Incorrect format of the file"="Onjuist bestandsformaat"
+"Cannot load file"="Kan het bestand niet openen"
+"Cannot save file"="Kan het bestand niet opslaan"
+"Number of graphs cannot be more than %s"="Het aantal grafieken kan niet groter zijn dan %s"
+"Too large absolute value of the boundary of X interval"="Te grote absolute waarde voor een grens van een X-interval"
+"Too large absolute value of the boundary of Y interval"="Te grote absolute waarde voor een grens van een Y-interval"
+"Too small interval of X"="Te klein interval voor X"
+"Too small interval of Y"="Te klein interval voor Y"
+"Too large value of the boundary of the interval\n(in view of the logarithmic scale)"="Te grote waarde van de grens van het interval\n (gezien de logaritmische schaal)"
+"File write error"="Fout tijdens het schrijven van het bestand"
+"File read error"="Fout tijdens het lezen van het bestand"
+"Out of system resources"="Tekort aan systeembronnen"
+"There are no table graphs"="Er zijn geen tabel-grafieken"
+
+;===============================================================================
+;Document Properties
+"Plot"="Grafiek-opties"
+"Intervals"="Intervallen"
+"Plot Options"="Plot-opties"
+"Coefficients"="Coëfficiënten"
+"Minimum of X"="Minimum van X"
+"Maximum of X"="Maximum van X"
+"Minimum of Y"="Minimum van Y"
+"Maximum of Y"="Maximum van Y"
+"Plot parameters"="Plot-parameters"
+"Number of steps"="Aantal stappen"
+"Maximum gap"="Maximale tussenruimte"
+"Point align"="0 meetellen"
+"Coefficient on X-Axis"="Coëfficiënt op de X-as"
+"Coefficient on Y-Axis"="Coëfficiënt op de Y-as"
+"Base"="Grondtal"
+"Logarithmic Scale"="Logaritmische schaal"
+"Maximum of X must be more\nthan minimum of X"="Het maximum van x moet groter\nzijn dan het minimum"
+"Maximum of Y must be more\nthan minimum of Y"="Het maximum van y moet groter\nzijn dan het minimum"
+"Axes"="Assen"
+"Equal scale of marks"="Gelijke afstanden tussen de markeringen op de assen"
+"X-Axis"="X-as"
+"Y-Axis"="Y-as"
+"Direction"="Richting"
+"Left -> Right"="Links -> Rechts"
+"Right -> Left"="Rechts -> Links"
+"Top -> Bottom"="Boven -> Beneden"
+"Bottom -> Top"="Beneden -> Boven"
+"Style"="Stijl"
+"Width"="Dikte"
+"Arrow"="Pijl"
+"Color"="Kleur"
+"Axis Name"="Naam van de as"
+"Color Like X-Axis"="X-as-kleur"
+"Color Like Y-Axis"="Y-as-kleur"
+"Font..."="Lettertype..."
+"Ticks"="Markeringen"
+"Ticks Along X-Axis"="Markering langs de X-as"
+"Ticks Along Y-Axis"="Markering langs de Y-as"
+"Step"="Interval"
+"Axis Color"="Kleur van de as"
+"Custom Color"="Aangepast"
+"Length"="Lengte"
+"Labels Along X-Axis"="Labels langs de X-as"
+"Labels Along Y-Axis"="Labels langs de Y-as" 
+"Additional String"="Extra letter(s)"
+"To the Top of X-Axis"="Naar de top van de X-as"
+"To the Left of Y-Axis"="Naar de linkerkant van de Y-as"
+"Grid"="Rooster"
+"Cartesian"="Cartesiaans"
+"Polar"="Poolcoördinaten"
+"Horizontal Lines"="Horizontale lijnen"
+"Vertical Lines"="Verticale lijnen"
+"Radial Grid"="Radiaal rooster"
+"Angular Grid"="Hoeken-rooster"
+"Background Color"="Achtergrondkleur"
+"View"="Beeld"
+"Titles"="Titel"
+"Top"="Bovenkant"
+"Bottom"="Onderkant"
+"Left"="Links"
+"Right"="Rechts"
+"Crossed"="Gekruist"
+"Boxed"="Doos"
+"Legend"="Legenda"
+"Show samples"="Toon voorbeelden"
+"Text color as graphs"=""
+"Text color as graphs"="Tekst dezelfde kleur als grafieken"
+"Position"="Positie"
+"Center"="Midden"
+"Apply"="Toepassen"
+"Save as default"="-> Standaard"
+
+;===============================================================================
+;Save As Picture Form
+"Picture Size"="Grootte van de figuur"
+"Width (pixels)"="Breedte (pixels)"
+"Height (pixels)"="Hoogte (pixels)"
+"Scale factor"="Schaalfactor"
+"Picture Format"="Bestandstype"
+"File Name:"="Bestandsnaam:"
+"Browse..."="Bladeren..."
+"File already exists. Overwrite it?"="Het bestand bestaat al. Wilt u het vervangen?"
+
+;===============================================================================
+;Calculator Form
+"Formula"="Formule"
+"Variable"="Variabele"
+"Result"="Uitkomst"
+"Calculate"="Berekenen"
+"The name of the variable must\nbe a letter of the latin alphabet"="De naam van de variabele moet een letter van het alfabet zijn"
+"The value of the variable must be a number"="De waarde van de variabele moet een getal zijn"
+"Too large value of the variable"="Te grote waarde voor de variabele"
+"Empty formula"="Geen formule"
+
+;===============================================================================
+;Options Form
+"Confirmations"="Bevestigingen"
+"Delete graph"="Grafiek verwijderen"
+"Others"="Overige"
+"New color for new graph"="Nieuwe kleur voor nieuwe grafiek"
+"Change steps when intervals changed"="Verander de stappen bij intervalwijziging"
+"Show background in the graph list"="Achtergrond weergeven in de grafieken-lijst"
+"Show splash screen"="Opstart-scherm weergeven"
+
+;===============================================================================
+;Copy to Clipboard Form
+"Copy to Clipboard"="Kopiëren"
+
+;===============================================================================
+;Derivative Form
+"Derivative"="Afgeleide"
+"Cannot calculate derivative for this graph type"="Kan van deze uitdrukking geen afgeleide geven"
+"Too large expression for derivation"="Te grote uitdrukking om te differentiëren"
+"The expression contains nondifferentiable function or operation"="De uitdrukking bevat een niet-differentieerbaar gedeelte"
+"Too long formula of the derivative"="Te grote uitdrukking van de afgeleide"
+
+;===============================================================================
+;Integral Form
+"Parameters"="Parameters"
+"Definite Integral"="Bepaalde integraal"
+"Between: Y(x)="="Tussen: Y(x)="
+"and Y(x)="="en Y(x)="
+"Integration of absolute value (area)"="Absolute waarde berekenen (oppervlakte)"
+"Number of integration steps"="Aantal integratiestappen"
+"Calculation interrupted"="Berekening onderbroken"
+"Error at function evaluation"="Fout bij de evaluatie van de functie"
+"Too large value of the integral"="Te grote waarde van de integraal"
+"Too long formulas"="Te grote formules"
+
+;===============================================================================
+;Modify Table Form
+"Modify Table"="Tabel wijzigen"
+"Modify"="Wijzig"
+"Fill Table"="Tabel vullen"
+"Fill"="Vullen"
+"All"="Alle"
+"Custom:  from"="Aangepast: van"
+"up to"="tot"
+"Lower limit cannot exceed upper limit"="De ondergrens kan niet groter zijn dan de bovengrens"
+"Interval"="Interval"
+
+;===============================================================================
+;Table File Format Form
+"File Format"="Bestandstype"
+"File Form"="Vorm van het bestand"
+"Vertical (columns)"="Verticaal (kolommen)"
+"Horizontal (rows)"="Horizontaal (rijen)"
+"Table File Format"="Tabel-bestandstype"
+
+;===============================================================================
+;Print Graphs Form
+"Print Graphs"="Afdrukken"
+"Print Options"="Afdrukopties"
+"Black and white only"="Alleen zwart/wit"
+"Page setup..."="Instellingen..."
+
+;===============================================================================
+;Regression Form
+"Regression Type"="Regressie-type"
+"Linear: y=a*x+b"="Lineair: y=a*x+b"
+"Hyperbolic: y=a/x+b"="Hyperbolisch: y=a/x+b"
+"Logarithmic: y=a*ln(x)+b"="Logarithmisch: y=a*ln(x)+b"
+"Power: y=a*x^b"="Macht: y=a*x^b"
+"Exponential I: y=a*exp(b*x)"="Exponentieel: y=a*exp(b*x)"
+"Exponential II: y=a*b^x"="Exponentieel II: y=a*b^x"
+"Polynomial: y=b+a1*x+a2*x^2+...+an*x^n"="Polynoom: y=b+a1*x+a2*x^2+...+an*x^n"
+"Best Fit Curve"="Best passende kromme"
+"Goodness of Fit"="Nauwkeurigheid"
+"Not enough numbers for regression"="Niet genoeg getallen voor regressie"
+"Error data for this regression type"="Foute data voor deze regressie-vorm"
+"Standard deviation"="Standaarddeviatie"
+
+;===============================================================================
+;Analysis Results Form
+"Analysis Results"="Resultaat van de analyse"
+"Analysis Parameters"="Analyse-parameters"
+"Save To File..."="Opslaan als..."
+"Save Analysis Results"="Sla de analyse-resultaten op"
+"interrupted"="onderbroken"
+"Zeroes of function: not calculated"="Nulpunten van de functie: niet berekend"
+"Zeroes of function: none"="Nulpunten van de functie: geen"
+"Zeroes of function:"="Nulpunten van de functie:"
+"Extrema: not calculated"="Extrema: niet berekend"
+"Extrema: none"="Extrema: geen"
+"Extrema:"="Extrema:"
+"Analysis of function"="Analyse van de functie"
+"Copy error"="Kopiëerfout"
+"Number of steps"="Aantal stappen"
+"Accuracy (decimal signs)"="Aantal decimalen"
+"Close"="Sluiten"
+
+;===============================================================================
+;Analyze Function Form
+"Calculations"="Berekeningen"
+"Zeroes of Function"="Nulpunten van de functie"
+"Extrema"="Extrema"
+"Use Derivative"="Gebruik afgeleide"
+"Not marked on an evaluation neither zeros\nnor extrema of function"="Nulpunten noch extrema zijn gekozen"
+"It is impossible to calculate extrema with\nthe help of analytically obtained derivative\nas the formula contains nondifferentiable function\nor operation"="Extrema kunnen niet met de afgeleide\n berekend worden omdat de formule\n niet-differentieerbaar is"
+"It is impossible to calculate extrema with\nthe help of analytically obtained derivative\nas the formula is too long for derivation"="Extrema kunnen niet met de afgeleide\n berekend worden omdat de formule te lang is\n om te kunnen differentiëren is"
+
+;===============================================================================
+;Default Graph Properties Form
+"Lines"="Lijnen"
+"Points"="Punten"
+"Size"="Grootte"
+"X(t) and Y(t)"="X(t) en Y(t)"
+"Equation or Inequality"="Vergelijking of ongelijkheid"
+"Slope Field"="Lijnelementen-veld"
+
+;===============================================================================
+;Graph Properties Form
+"Add'l Properties"="Aanvullende eigenschappen"
+"Data Manipulation"="Data-manipulatie"
+"Insert"="Invoegen"
+"Swap"="Wissel"
+"Sort"="Sorteren"
+"Purge"="Reinigen"
+"By X - Ascending"="X: Oplopend"
+"By X - Descending"="X: Aflopend"
+"By Y - Ascending"="Y: Oplopend"
+"By Y - Descending"="Y: Aflopend"
+"Type of sorting"="Sortering op"
+"On X"="X-waarden"
+"On Y"="Y-waarden"
+"None"="Niets"
+"Number of steps on hor."="Aantal stappen horizontaal"
+"Number of steps on vert."="Aantal stappen verticaal"
+"Number of hor. series"="Aantal horizontale series"
+"Number of vert. series"="Aantal verticale series"
+"Line Length"="Lijnlengte"
+"Minimum of %s"="Minimum van %s"
+"Maximum of %s"="Maximum van %s"
+"Cut"="Knippen"
+"Copy"="Kopiëren"
+"Paste"="Plakken"
+"Smoothing"="Vloeiend"
+"Curve quality"="Kwaliteit"
+"Low"="Laag"
+"Medium"="Gemiddeld"
+"High"="Hoog"
+
+;===============================================================================
+;Table Info Form
+"Table Info"="Tabel informatie"
+"Minimum"="Minimum"
+"Maximum"="Maximum"
+"Arithmetic mean"="Rekenkundig gemiddelde"
+"Mean square"="Gemiddelde^2"
+"Std. deviation"="Standaarddeviatie"
+
+;===============================================================================
+;Tangent or Normal Form
+"Tangent"="Raaklijn"
+"Normal"="Normaal"
+"Find"="Zoek"
+"Point To Find Tangent/Normal"="Punt van raaklijn/normaal"
+"It is impossible to plot a tangent/normal"="Het is onmogelijk een raaklijn/normaal te tekenen"
+"Too large absolute value of variable"="Te grote absolute waarde voor de variabele"
+"Error of the determination of the equation of the tangent"="Fout bij het zoeken naar de vergelijking van de raaklijn"
+"Error of the determination of the equation of the normal"="Fout bij het zoeken naar de vergelijking van de normaal"
+
+;===============================================================================
+;Trace Form
+"Values"="Waarden"
+"The table is empty"="De tabel is leeg"
+"The tracing is impossible"="Het volgen is onmogelijk"
+"There are no values"="Er zijn geen waarden"
+
+;===============================================================================
+;Value Table Form
+"from"="Van"
+"Save..."="Opslaan..."
+"Save Value Table"="Tabel opslaan"
+"Maximum of the variable must be more\nthan minimum of the variable"="Het maximum van de variabele moet groter\nzijn dan het minimum"
+"Too many values to calculate"="Teveel waarden om mee te rekenen"
+
+;===============================================================================
+;Undo Manager
+"&Undo Change options"="Ongedaan maken Verander opties"
+"&Undo Delete graph"="Ongedaan maken Verwijder grafiek"
+"&Undo Change graph properties"="Ongedaan maken Verander grafiek-eigenschappen"
+"&Undo Add graph"="Ongedaan maken Grafiek toevoegen"
+"&Undo Change graphs order"="Ongedaan maken Verander grafiekenvolgorde"
+"&Undo Delete label"="Maak label-verwijdering &ongedaan"
+"&Undo Change label properties"="Maak wijziging van tabel-eigenschappen &ongedaan"
+"&Undo Add label"="Maak label toevoegen &ongedaan"
+"&Redo Change options"="Herstel Verander opties"
+"&Redo Delete graph"="Herstel Verwijder grafiek"
+"&Redo Change graph properties"="Herstel Verander grafiek-eigenscahppen"
+"&Redo Add graph"="Herstel Grafiek toevoegen"
+"&Redo Change graphs order"="Herstel Verander grafieken-volgorde"
+"&Redo Delete label"="&Herstel label-verwijdering"
+"&Redo Change label properties"="&Herstel wijziging van tabel-eigenschappen"
+"&Redo Add label"="&Herstel label toevoegen "
+
+;===============================================================================
+;Copy Table Form
+"Copy Table"="Kopiëer tabel"
+"Columns"="Kolommen"
+"Options"="Opties"
+"Decimal Separator"="Decimaal scheidingsteken"
+"At least one column must be selected"="Tenminste één kolom moet geselecteerd worden"
+
+;===============================================================================
+;Find Form
+"Value to find"="Te vinden waarde"
+"Forward"="Omlaag"
+"Backward"="Omhoog"
+"Value not found"="Waarde niet gevonden"
+"The value must be a number"="De waarde moet een getal zijn"
+"Too large absolute value"="Te grote absolute waarde"
+
+;===============================================================================
+;Intersections Form
+"Intersections"="Snij/raakpunten"
+"Intersection points: not calculated"="Snij/raakpunten: niet berekend"
+"Intersection points:"="Snij/raakpunten:"
+"Intersection points: none"="Snij/raakpunten: geen"
+
+;===============================================================================
+;Replace Form
+"Replace"="Vervang"
+"Replace with"="Vervang door"
+"Prompt on Replace"="Cursor op Vervang"
+"Replace All"="Vervang alles"
+"Replace this value?"="Weet u zeker dat u deze waarde wilt vervangen?"
+
+;===============================================================================
+;Save Table Form
+"Number Format"="Getalsaanduiding instellen"
+
+;===============================================================================
+;Differ
+"Information"="Informatie"
+"All"="Alle"
+"Cut Table"="Tabel knippen"
+"Calculating..."="Bezig met berekenen"
+
+;===============================================================================
+;Labels
+"New Label"="Nieuw label"
+"Label Properties"="Label-eigenschappen"
+"Transparent"="Transparant"
+"Delete the label"="Verwijder het label"
+"Empty text"="Verwijder de tekst"

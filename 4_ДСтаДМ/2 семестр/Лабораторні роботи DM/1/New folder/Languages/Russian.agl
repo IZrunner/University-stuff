@@ -1,0 +1,610 @@
+;Version=1.1.0
+; Version format is s.t.m
+; s - language file format version
+; t - template version
+; m - translation version (0 for the first template translation,
+;     increased for changed/corrected translations of the same template)
+
+;===============================================================================
+"Cancel"="Отмена"
+"Help"="Помощь"
+"Info"="Инфо"
+"Error"="Ошибка"
+"Confirm"="Подтверждение"
+"&Yes"="Да"
+"&No"="Нет"
+"Delete"="Удал."
+"Ready"="Готов"
+"Not enough memory"="Не хватает памяти"
+"(Empty)"="(Нет)"
+"item"="элемент"
+"items"="элементов(а)"
+"Table:"="Таблица:"
+"This value must be a positive\nnumber up to %s"="Это значение должно быть\nположительным числом до %s"
+"This value must be a natural\nnumber up to %s"="Это значение должно быть\nнатуральным числом до %s"
+"This value must be an integer\nfrom %s up to %s"="Это значение должно быть\nцелым числом от %s до %s"
+"This value must be a number\nfrom %s up to %s"="Это значение должно быть\nчислом от %s до %s"
+"Maximum of %s must be more\nthan minimum of %s"="Максимум %s должен быть\nбольше минимума %s"
+
+;===============================================================================
+; Graph Types
+"polar coordinate system"="полярная система координат"
+"X(t) and Y(t) - parametrical equations"="X(t) и Y(t) - параметрические уравнения"
+"f(x,y)>|=|<0 - equation or inequality"="f(x,y)>|=|<0 - уравнение или неравенство"
+"dy/dx or dx/dy - slope field"="dy/dx или dx/dy - поле направлений"
+"Table"="Таблица"
+
+;===============================================================================
+; Error Types
+"Syntax error"="Синтаксическая ошибка"
+"Not enough ')'"="Недостаток ')'"
+"Not enough '('"="Недостаток '('"
+
+;===============================================================================
+;Toolbar Manager
+"Rename Toolbar"="Переименование панели"
+"Add Toolbar"="Добавление панели"
+"&Toolbar name:"="Панель инструментов:"
+"Are you sure you want to reset the changes made to the '%s' toolbar?"="Вы действительно хотите отменить изменения, сделанные для панели инструментов '%s'?"
+"This will delete the record of the commands you've used in this application and restore the default set of visible commands to the menus and toolbars. It will not undo any explicit customizations.   Are you sure you want to proceed?"="Будут удалены сведения о командах, использованных в данном приложении, и восстановлен набор команд по умолчанию, отображаемых в меню и на панелях инструментов. Все явные настройки будут сохранены. Выполнить операцию?"
+"Are you sure you want to delete the '%s' toolbar?"="Удалить панель инструментов '%s'?"
+"Personalized Menus and Toolbars"="Настраиваемые меню и панели инструментов  "
+"Me&nus show recently used commands first"="Показывать последние команды меню сначала"
+"Show f&ull menus after a short delay"="Показывать полные меню после короткой задержки"
+"&Reset my usage data"="  Сброс  "
+"A command name cannot be blank. Please enter a name."="Необходимо ввести имя команды"
+"A toolbar named '%s' already exists. Type another name."="Панель инструментов '%s' уже существует. Введите другое имя."
+"Toolbars"=" Панели инструментов "
+"Commands"=" Команды "
+"Options"="Параметры"
+"Toolb&ars:"="Панели инструментов:"
+"&New..."="Создать..."
+"R&ename..."="Переименовать..."
+"&Delete"="Удалить"
+"&Reset..."="Сброс..."
+"Cate&gories:"="Категории:"
+"Comman&ds:"="Команды:"
+"Description"="Описание"
+"&Customize..."="Настройка..."
+"&Add or Remove Buttons"="Добавить или удалить кнопки"
+"More Buttons"="Другие кнопки"
+"&Reset Toolbar"="Сброс панели"
+"&Name:"="Имя:"
+"Defa&ult style"="Основной стиль"
+"&Text Only (Always)"="Только текст (всегда)"
+"Text &Only (in Menus)"="Только текст (в меню)"
+"Image &and Text"="Значок и текст"
+"Begin a &Group"="Начать группу"
+"Other"="Другие  "
+"&Large icons"="Крупные значки"
+"Show Tool&Tips on toolbars"="Отображать подсказки для кнопок"
+"Show s&hortcut keys in ToolTips"="Включить в подсказки сочетания клавиш"
+"&Menu animations:"="Эффект при выводе меню:"
+"(None)"="(Нет)"
+"Random"="Случайный выбор"
+"Unfold"="Развертывание"
+"Slide"="Соскальзывание"
+"Fade"="Угасание"
+"Custom"="Настраиваемая "
+"Select item"="Выбор элемента"
+
+;===============================================================================
+;Menu and Toolbars
+"Main Menu"="Главное меню"
+"Standard"="Стандартная"
+"Graph"="График"
+"Calculus"="Вычисления"
+
+;===============================================================================
+;Categories
+"File"="Файл"
+"Edit"="Правка"
+"View"="Вид"
+"Graphs"="Графики"
+"Calculus"="Вычисления"
+"Window"="Окно"
+"Help"="Помощь"
+"Menus"="Меню"
+"Intervals"="Интервалы"
+"Properties"="Свойства"
+
+;===============================================================================
+;File
+"&File"="Файл"
+"&New"="Новый"
+"&Open..."="Открыть..."
+"I&mport Table..."="Импорт таблицы..."
+"&Save"="Сохранить"
+"Save &As..."="Сохранить как..."
+"Save As Pict&ure..."="Сохранить как рисунок..."
+"E&xport Table..."="Экспорт таблицы..."
+"Pa&ge Setup..."="Параметры страницы..."
+"&Print..."="Печать..."
+"List of recently used files"="Список файлов, используемых последними"
+"&Exit"="Выход"
+
+;===============================================================================
+;Edit
+"&Edit"="Правка"
+"&Undo"="Отмена"
+"&Redo"="Повтор"
+"&Copy As Picture..."="Копировать как рисунок..."
+"Draw &Labels"="Добавить метку"
+"&Options..."="Параметры..."
+
+;===============================================================================
+;View
+"&View"="Вид"
+"&Graph List"="Список графиков"
+"&Toolbars"="Панели инструментов"
+"&Interface"="Интерфейс"
+"List of Interface Styles"="Список стилей интерфейса"
+"&Full Screen"="Полный экран"
+
+;===============================================================================
+;Graphs
+"&Graphs"="Графики"
+"&Add Graph..."="Добавить график..."
+"Add &Table Graph..."="Добавить график таблицы..."
+"Delete Graph"="Удалить график"
+"Duplicate Graph"="Дублировать график"
+"&Finish Calculating"="Досчитать"
+"&Document Properties..."="Свойства документа..."
+"&Sets of Properties"="Наборы свойств"
+"Standard &Properties"="Свойства по умолчанию"
+"&Standard Intervals"="Интервалы по умолчанию"
+"&Trigonometrical Set"="Тригонометрический набор"
+"Default &Graph Properties..."="Свойства графика по умолчанию..."
+
+;===============================================================================
+;Calculus
+"&Calculus"="Вычисления"
+"Calc&ulator"="Калькулятор"
+"&Function Calculator..."="Вычисление функций..."
+"&Value Table..."="Таблица значений..."
+"&Analyze Function..."="Исследование функции..."
+"Inter&sections..."="Пересечения..."
+"&Derivative..."="Производная..."
+"&Tangent or Normal..."="Касательная или нормаль..."
+"&Integration..."="Интегрирование..."
+"&Regression..."="Регрессионный анализ..."
+
+;===============================================================================
+;Window
+"&Window"="Окно"
+"&Cascade"="Каскад"
+"Tile &Horizontally"="Мозаика по горизонтали"
+"Tile &Vertically"="Мозаика по вертикали"
+"&Arrange Icons"="Упорядочить значки"
+"&Minimize All"="Свернуть все"
+"List of Current Windows"="Список текущих окон"
+
+;===============================================================================
+;Help
+"&Help"="Помощь"
+"&Contents"="Содержание"
+"&About..."="О программе..."
+
+;===============================================================================
+;Intervals
+"Zoom Out X and Y"="Уменьшить масштаб по X и Y"
+"Zoom Out Y"="Уменьшить масштаб по Y"
+"Zoom Out X"="Уменьшить масштаб по X"
+"Zoom In X and Y"="Увеличить масштаб по X и Y"
+"Zoom In Y"="Увеличить масштаб по Y"
+"Zoom In X"="Увеличить масштаб по X"
+"Move to the left"="Сдвинуть влево"
+"Move to the right"="Сдвинуть вправо"
+"Move upwards"="Сдвинуть вверх"
+"Move downwards"="Сдвинуть вниз"
+"Select interval"="Выбрать интервал"
+"Center view"="По центру"
+
+;===============================================================================
+;Properties
+"Graph List"="Список графиков"
+"Draw Graph"="Строить график"
+"Draw with Lines"="Строить линиями"
+"Line Width"="Толщина линий"
+"Style of Shading"="Стиль штриховки"
+"Draw with Points"="Строить точками"
+"Point Size"="Размер точек"
+"Point Style"="Стиль точек"
+"Line Style"="Стиль линий"
+"Graph Color"="Цвет графика"
+"Properties"="Свойства"
+"Graph Properties"="Свойства графика"
+"Trace"="Трассировка"
+
+;===============================================================================
+;Other items
+"Horizontal Grid Lines"="Горизонтальные линии сетки"
+"Vertical Grid Lines"="Вертикальные линии сетки"
+"Advanced Grapher files (*.agr)"="Файлы графиков (*.agr)"
+"All files (*.*)"="Все файлы (*.*)"
+"Bitmap files (*.bmp)"="Точечные рисунки (*.bmp)"
+"EMF files (*.emf)"="Рисунки EMF (*.emf)"
+"GIF files (*.gif)"="Рисунки GIF (*.gif)"
+"Text files (*.txt)"="Текстовые файлы (*.txt)"
+"Text files (*.txt;*.csv)"="Текстовые файлы (*.txt;*.csv)"
+
+"Converting to EMF:"="Конвертирование в EMF:"
+"Saving EMF:"="Сохранение EMF:"
+"Creating picture..."="Создание рисунка..."
+"Saving picture..."="Сохранение рисунка..."
+"Printing..."="Печать..."
+"Printing"="Печать"
+"Copying picture..."="Копирование рисунка..."
+"Graph N"="График N"
+"Press Esc to interrupt the calculation"="Esc - прервать вычисления"
+
+;===============================================================================
+;Questions
+"Save changes to %s?"="Сохранить изменения в %s?"
+"Do you want to remove the graph?"="Вы действительно хотите удалить этот график?"
+
+;===============================================================================
+;Error messages
+"Incorrect format of the file"="Неверный формат файла"
+"Cannot load file"="Невозможно загрузить файл"
+"Cannot save file"="Невозможно сохранить файл"
+"Number of graphs cannot be more than %s"="Количество графиков не может превышать %s"
+"Too large absolute value of the boundary of X interval"="Слишком большое по модулю значение границы интервала X"
+"Too large absolute value of the boundary of Y interval"="Слишком большое по модулю значение границы интервала Y"
+"Too small interval of X"="Слишком узкий интервал X"
+"Too small interval of Y"="Слишком узкий интервал Y"
+"Too large value of the boundary of the interval\n(in view of the logarithmic scale)"="Слишком большое значение границы интервала\n(с учетом логарифмической шкалы)"
+"File write error"="Ошибка записи файла"
+"File read error"="Ошибка чтения файла"
+"Out of system resources"="Не хватает системных ресурсов"
+"There are no table graphs"="Нет графиков, заданных таблицей значений"
+
+;===============================================================================
+;Document Properties
+"Plot"="Построение"
+"Intervals"="Интервалы"
+"Plot Options"="Параметры построения"
+"Coefficients"="Коэффициенты"
+"Minimum of X"="Минимум X"
+"Maximum of X"="Максимум X"
+"Minimum of Y"="Минимум Y"
+"Maximum of Y"="Максимум Y"
+"Plot parameters"="Параметры построения"
+"Number of steps"="Количество шагов"
+"Maximum gap"="Макс. разрыв"
+"Point align"="Выравнивание точек"
+"Coefficient on X-Axis"="Коэффициент по X"
+"Coefficient on Y-Axis"="Коэффициент по Y"
+"Base"="Осн."
+"Logarithmic Scale"="Логарифмическая шкала"
+"Maximum of X must be more\nthan minimum of X"="Максимум X должен быть\nбольше минимума X"
+"Maximum of Y must be more\nthan minimum of Y"="Максимум Y должен быть\nбольше минимума Y"
+"Axes"="Оси"
+"Equal scale of marks"="Одинаковый масштаб засечек"
+"X-Axis"="Ось X"
+"Y-Axis"="Ось Y"
+"Direction"="Направление"
+"Left -> Right"="Слева направо"
+"Right -> Left"="Справа налево"
+"Bottom -> Top"="Снизу вверх"
+"Top -> Bottom"="Сверху вниз"
+"Style"="Стиль"
+"Width"="Толщина"
+"Arrow"="Стрелка"
+"Color"="Цвет"
+"Axis name"="Название"
+"Color like X-Axis"="Цвет как у оси X"
+"Color like Y-Axis"="Цвет как у оси Y"
+"Font..."="Шрифт..."
+"Ticks"="Засечки"
+"Ticks Along X-Axis"="Засечки вдоль X"
+"Ticks Along Y-Axis"="Засечки вдоль Y"
+"Step"="Шаг"
+"Axis color"="Цвет оси"
+"Custom color"="Выборочный"
+"Length"="Длина"
+"Labels"="Метки"
+"Labels Along X-Axis"="Метки вдоль X"
+"Labels Along Y-Axis"="Метки вдоль Y"
+"Additional string"="Доп. строка"
+"To the top of X-Axis"="Вверх от оси X"
+"To the left of Y-Axis"="Влево от оси Y"
+"Grid"="Сетка"
+"Cartesian"="Декартова"
+"Polar"="Полярная"
+"Horizontal Lines"="Гориз. линии"
+"Vertical Lines"="Верт. линии"
+"Radial Grid"="Радиальн."
+"Angular Grid"="Угловая"
+"Background color"="Цвет фона"
+"View"="Вид"
+"Titles"="Заголовки"
+"Top"="Вверху"
+"Bottom"="Внизу"
+"Left"="Слева"
+"Right"="Справа"
+"Crossed"="Пересекающиеся"
+"Boxed"="Прямоугольником"
+"Legend"="Легенда"
+"Show samples"="Примеры графиков"
+"Text color as graphs"="Цвет текста такой же, как графиков"
+"Position"="Расположение"
+"Center"="Центр"
+"Description"="Описание"
+"Apply"="Применить"
+"Save as default"="Сохр. как станд."
+
+;===============================================================================
+;Save As Picture Form
+"Picture Size"="Размер рисунка"
+"Width (pixels)"="Ширина (пикс.)"
+"Height (pixels)"="Высота (пикс.)"
+"Picture Format"="Формат рисунка"
+"Scale factor"="Масштаб"
+"File name:"="Имя файла:"
+"Browse..."="Обзор..."
+"File already exists. Overwrite it?"="Файл уже существует. Переписать его?"
+
+;===============================================================================
+;Calculator Form
+"Formula"="Формула"
+"Variable"="Перем."
+"Result"="Итог"
+"Calculate"="Считать"
+"The name of the variable must\nbe a letter of the latin alphabet"="Имя переменной должно быть\nбуквой латинского алфавита"
+"The value of the variable must be a number"="Значение переменной должно быть числом"
+"Too large value of the variable"="Слишком большое значение переменной"
+"Empty formula"="Пустая формула"
+
+;===============================================================================
+;Options Form
+"Confirmations"="Подтверждения"
+"Others"="Другие"
+"New color for new graph"="Новый цвет для нового графика"
+"Change steps when intervals changed"="Изменять шаги при изменении интервалов"
+"Show background in the graph list"="Показывать фон в списке графиков"
+"Show splash screen"="Показывать окно заставки"
+
+;===============================================================================
+;Copy to Clipboard Form
+"Copy to Clipboard"="Копировать"
+
+;===============================================================================
+;Derivative Form
+"Derivative"="Производная"
+"Cannot calculate derivative for this graph type"="Не могу найти производную для этого типа графика"
+"Too large expression for derivation"="Слишком большое выражение для вычисления производной"
+"The expression contains nondifferentiable function or operation"="Выражение содержит недифференцируемую функцию или операцию"
+"Too long formula of the derivative"="Слишком длинная формула производной"
+
+;===============================================================================
+;Integral Form
+"Parameters"="Параметры"
+"Definite Integral"="Определенный интеграл"
+"Between: Y(x)="="Между: Y(x)="
+"and Y(x)="="и Y(x)="
+"Integration of absolute value (area)"="Интегрирование по абс. значению (площадь)"
+"Number of integration steps"="Количество шагов"
+"Calculation interrupted"="Вычисление прервано"
+"Error at function evaluation"="Ошибка при вычислении функции"
+"Too large value of the integral"="Слишком большое значение интеграла"
+"Too long formulas"="Слишком длинные формулы"
+
+;===============================================================================
+;Modify Table Form
+"Modify Table"="Изменение таблицы"
+"Modify"="Измен."
+"Fill Table"="Заполнение таблицы"
+"Fill"="Заполн."
+"All"="Все"
+"Custom:  from"="Выбор: от"
+"up to"="до"
+"Lower limit cannot exceed upper limit"="Нижний предел не может превышать верхний"
+"Interval"="Интервал"
+
+;===============================================================================
+;Table File Format Form
+"File Format"="Формат файла"
+"File Form"="Форма файла"
+"Vertical (columns)"="Вертикально (столбцы)"
+"Horizontal (rows)"="Горизонтально (ряды)"
+"Table File Format"="Формат файла таблицы"
+
+;===============================================================================
+;Print Graphs Form
+"Print Graphs"="Печать"
+"Print Options"="Параметры печати"
+"Black and white only"="Черно-белое изображение"
+"Page setup..."="Макет..."
+
+;===============================================================================
+;Regression Form
+"Regression Type"="Тип регрессии"
+"Linear: y=a*x+b"="Линейная: y=a*x+b"
+"Hyperbolic: y=a/x+b"="Гиперболическая: y=a/x+b"
+"Logarithmic: y=a*ln(x)+b"="Логарифмическая: y=a*ln(x)+b"
+"Power: y=a*x^b"="Степенная: y=a*x^b"
+"Exponential: y=a*exp(b*x)"="Экспоненциальная: y=a*exp(b*x)"
+"Exponential II: y=a*b^x"="Показательная: y=a*b^x"
+"Polynomial: y=b+a1*x+a2*x^2+...+an*x^n"="Полиномиальная: y=b+a1*x+a2*x^2+...+an*x^n"
+"Best Fit Curve"="Лучшая"
+"Goodness of Fit"="Соответствие"
+"Not enough numbers for regression"="Не хватает чисел для проведения анализа"
+"Error data for this regression type"="Неверные данные для данного типа регрессии"
+"Standard deviation"="Стандартное отклонение"
+
+;===============================================================================
+;Analysis Results Form
+"Analysis Results"="Результаты исследования"
+"Analysis Parameters"="Параметры исследования"
+"Save To File..."="Сохранить в файл..."
+"Save Analysis Results"="Сохранить результаты исследования"
+"interrupted"="прервано"
+"Zeroes of function: not calculated"="Нули функции: не вычислялись"
+"Zeroes of function: none"="Нули функции: нет"
+"Zeroes of function:"="Нули функции: "
+"Extrema: not calculated"="Экстремумы: не вычислялись"
+"Extrema: none"="Экстремумы: нет"
+"Extrema:"="Экстремумы: "
+"Analysis of function"="Исследование функции"
+"Copy error"="Ошибка копирования"
+"Number of steps"="Количество шагов"
+"Accuracy (decimal signs)"="Точность (десят. знаков)"
+"Close"="Закрыть"
+
+;===============================================================================
+;Analyze Function Form
+"Calculations"="Вычисления"
+"Zeroes of Function"="Нули функции"
+"Extrema"="Экстремумы"
+"Use derivative"="Использовать производную"
+"Not marked on an evaluation neither zeros\nnor extrema of function"="Не помечены на вычисления ни нули,\nни экстремумы функции"
+"It is impossible to calculate extrema with\nthe help of analytically obtained derivative\nas the formula contains nondifferentiable function\nor operation"="Невозможно найти экстремумы с помощью\nаналитически найденной производной, так как\nформула содержит недифф. функцию или\nоперацию"
+"It is impossible to calculate extrema with\nthe help of analytically obtained derivative\nas the formula is too long for derivation"="Невозможно найти экстремумы с помощью\nаналитически найденной производной, так как\nформула слишком длинная для дифференцирования"
+
+;===============================================================================
+;Default Graph Properties Form
+"Default Graph Properties"="Свойства графика по умолчанию"
+"Lines"="Линии"
+"Points"="Точки"
+"Size"="Разм."
+"X(t) and Y(t)"="X(t) и Y(t)"
+"Equation or Inequality"="Уравнение или неравенство"
+"Slope Field"="Поле направлений"
+
+;===============================================================================
+;Graph Properties Form
+"Add'l Properties"="Доп. свойства"
+"Data Manipulation"="Работа с таблицей"
+"Insert"="Встав."
+"Swap"="Обмен"
+"Sort"="Сорт."
+"Purge"="Чистка"
+"By X - Ascending"="По X - возрастание"
+"By X - Descending"="По X - убывание"
+"By Y - Ascending"="По Y - возрастание"
+"By Y - Descending"="По Y - убывание"
+"Type of sorting"="Тип сортировки"
+"On X"="По X"
+"On Y"="По Y"
+"None"="Нет"
+"Number of steps on hor."="Кол-во шагов по гор."
+"Number of steps on vert."="Кол-во шагов по верт."
+"Number of hor. series"="Количество рядов"
+"Number of vert. series"="Количество столбцов"
+"Line length"="Длина линий"
+"Minimum of %s"="Минимум %s"
+"Maximum of %s"="Максимум %s"
+"Cut"="Вырез."
+"Copy"="Копир."
+"Paste"="Вставка"
+"Smoothing"="Сглаживание"
+"Curve quality"="Качество"
+"Low"="Низкое"
+"Medium"="Среднее"
+"High"="Высокое"
+
+;===============================================================================
+;Table Info Form
+"Table Info"="Информация о таблице"
+"Minimum"="Минимум"
+"Maximum"="Максимум"
+"Arithmetic mean"="Среднее арифм."
+"Mean square"="Среднее квадр."
+"Std. deviation"="Станд. откл."
+
+;===============================================================================
+;Tangent or Normal Form
+"Tangent"="Касательная"
+"Normal"="Нормаль"
+"Find"="Найти"
+"Point To Find Tangent/Normal"="Точка касания/пересечения"
+"It is impossible to plot a tangent/normal"="Невозможно провести касательную/нормаль"
+"Too large absolute value of variable"="Слишком большое по модулю значение переменной"
+"Error of the determination of the equation of the tangent"="Ошибка определения уравнения касательной"
+"Error of the determination of the equation of the normal"="Ошибка определения уравнения нормали"
+
+;===============================================================================
+;Trace Form
+"Values"="Значения"
+"The table is empty"="Пустая таблица"
+"The tracing is impossible"="Трассировка невозможна"
+"There are no values"="Нет значений"
+
+;===============================================================================
+;Value Table Form
+"from"="от"
+"Save..."="Сохранить..."
+"Save Value Table"="Сохранить таблицу значений"
+"Maximum of the variable must be more\nthan minimum of the variable"="Максимум переменной должен быть больше минимума"
+"Too many values to calculate"="Слишком много вычисляемых значений"
+
+;===============================================================================
+;Undo Manager
+"&Undo Change options"="Отменить Изменение параметров"
+"&Undo Delete graph"="Отменить Удаление графика"
+"&Undo Change graph properties"="Отменить Изменение свойств графика"
+"&Undo Add graph"="Отменить Добавление графика"
+"&Undo Change graphs order"="Отменить Изменение порядка графиков"
+"&Undo Delete label"="Отменить Удаление метки"
+"&Undo Change label properties"="Отменить Изменение свойств метки"
+"&Undo Add label"="Отменить Добавление метки"
+"&Redo Change options"="Повторить Изменение параметров"
+"&Redo Delete graph"="Повторить Удаление графика"
+"&Redo Change graph properties"="Повторить Изменение свойств графика"
+"&Redo Add graph"="Повторить Добавление графика"
+"&Redo Change graphs order"="Повторить Изменение порядка графиков"
+"&Redo Delete label"="Повторить Удаление метки"
+"&Redo Change label properties"="Повторить Изменение свойств метки"
+"&Redo Add label"="Повторить Добавление метки"
+
+;===============================================================================
+;Copy Table Form
+"Copy Table"="Копирование таблицы"
+"Columns"="Столбцы"
+"Options"="Параметры"
+"Decimal separator"="Между цел. и дробн."
+"At least one column must be selected"="Должен быть выделен как минимум один столбец"
+
+;===============================================================================
+;Find Form
+"Value to find"="Найти значение"
+"Forward"="Вперед"
+"Backward"="Назад"
+"Value not found"="Значение не найдено"
+"The value must be a number"="Значение должно быть числом"
+"Too large absolute value"="Слишком большое по модулю значение"
+
+;===============================================================================
+;Intersections Form
+"Intersections"="Пересечения"
+"Intersection points: not calculated"="Точки пересечения: не находились"
+"Intersection points:"="Точки пересечения:"
+"Intersection points: none"="Точки пересечения: нет"
+
+;===============================================================================
+;Replace Form
+"Replace"="Замена"
+"Replace with"="Заменить"
+"Prompt on replace"="Запрос на замену"
+"Replace all"="Заменить все"
+"Replace this value?"="Заменить это значение?"
+
+;===============================================================================
+;Save Table Form
+"Number Format"="Формат чисел"
+
+;===============================================================================
+;Differ
+"Information"="Информация"
+"All"="Все"
+"Cut Table"="Вырезать таблицу"
+"Calculating..."="Вычисление..."
+
+;===============================================================================
+;Labels
+"New Label"="Новая метка"
+"Label Properties"="Свойства метки"
+"Transparent"="Прозрачный"
+"Delete the label"="Удалить метку"
+"Empty text"="Пустой текст"

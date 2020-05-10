@@ -1,0 +1,122 @@
+      End User License Agreement for Advanced Grapher
+
+IMPORTANT READ CAREFULLY:
+This End-User License Agreement (EULA) is a legal agreement
+between you (either an individual or a single entity) and THE
+AUTHOR for the software product identified above, which
+includes computer software and may include online or
+electronic documentation (SOFTWARE PRODUCT or SOFTWARE). By
+installing, copying, or otherwise using the SOFTWARE PRODUCT,
+you agree to be bound by the terms of this EULA. If you do not
+agree to the terms of this Agreement, you are not authorized
+to use the SOFTWARE PRODUCT.
+
+Copyright laws and international copyright treaties, as well
+as other intellectual property laws and treaties protect the
+SOFTWARE PRODUCT. The SOFTWARE PRODUCT is licensed, not sold.
+
+GRANT OF LICENSE
+This EULA grants you the following rights:
+
+USE AND COPY
+One licensed copy of the SOFTWARE PRODUCT may either be
+used by a single person who uses the software personally on
+one or more computers, or installed on a single workstation
+used non-simultaneously by multiple people, but not both (or
+as outlined by multiuser licensing restrictions). You may
+make other copies of the SOFTWARE PRODUCT for backup and
+archival purposes only.
+
+RESTRICTIONS
+Trial versions of the SOFTWARE PRODUCT may be used for a
+period of not more than 30 days. After 30 days, you must
+either stop using the SOFTWARE PRODUCT, or purchase a legal
+license and obtain your license key.
+
+You must maintain all copyright notices on all copies of the
+SOFTWARE PRODUCT.
+
+You may not sell copies of the SOFTWARE PRODUCT to third
+parties without express written consent of THE AUTHOR and
+under THE AUTHOR's instruction.
+
+EVALUATION copies may be distributed freely without charge so
+long as the SOFTWARE PRODUCT remains whole including but not
+limited to existing copyright notices, installation and setup
+utilities, help files, licensing agreements, run-time
+libraries, etc. and DOES NOT CONTAIN either valid serial
+numbers, illegal serial numbers, or any other serial number
+not issued by the AUTHOR and or its authorized
+representatives. In executing such an act, or similar
+copyright or license violation, to the maximum extent
+permitted by applicable law you may be held liable for loss of
+revenue to THE AUTHOR or THE AUTHOR's representatives due to
+loss of sales or devaluation the SOFTWARE PRODUCT or both.
+
+You may not reverse engineer, decompile, or disassemble the
+SOFTWARE PRODUCT, except and only to the extent that such
+activity is expressly permitted by applicable law
+notwithstanding this limitation.
+
+You may not rent or lease the SOFTWARE PRODUCT without the
+express written consent of THE AUTHOR.
+
+You may permanently transfer all of your rights under this
+EULA only in conjunction with a permanent transfer of your
+validly licensed copy of the product(s) including the
+validation and license key information.
+
+You must comply with all applicable laws regarding the use of
+the SOFTWARE PRODUCT.
+
+TERMINATION
+THE AUTHOR may terminate this EULA if you fail to comply with
+the terms and conditions of this EULA. In such event, you must
+destroy all copies of the SOFTWARE PRODUCT including license
+keys and ID information.
+
+COPYRIGHT
+All title and copyrights and intellectual property rights in
+and to the SOFTWARE PRODUCT and any copies thereof are owned
+by THE AUTHOR.
+
+LICENSE KEY COPYRIGHT NOTICE
+The license key received and used to deactivate the time
+limiting trial period of this SOFTWARE PRODUCT is NOT public
+and maintains full Copyright status. Any public display or
+public transfer of this key will be considered a direct and
+intentional violation of this EULA and to the maximum extent
+permitted by applicable law you may be held liable for loss of
+revenue to THE AUTHOR or THE AUTHOR's representatives due to
+loss of sales or devaluation the SOFTWARE PRODUCT or both as
+well as criminal fines for copyright infringement.
+
+NO WARRANTY
+ANY USE OF THE SOFTWARE PRODUCT IS AT YOUR OWN RISK. TO THE
+MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE AUTHOR
+DISCLAIMS ALL WARRANTIES AND CONDITIONS, EITHER EXPRESS OR
+IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+NONINFRINGEMENT.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT
+SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, INCIDENTAL,
+INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING,
+WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS,
+BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, OR ANY
+OTHER PECUNIARY LOSS) ARISING OUT OF THE USE OF OR INABILITY
+TO USE THE SOFTWARE PRODUCT, EVEN IF THE AUTHOR HAS BEEN
+ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. BECAUSE SOME
+JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF
+LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, THE ABOVE
+LIMITATION MAY NOT APPLY TO YOU.
+
+MISCELLANEOUS
+Should you have any questions concerning this EULA, or if you
+desire to contact THE AUTHOR for any reason, please send
+E-Mail to: support@alentum.com.
+
+
+Copyright (c) 1998-2009 Alentum Software, Inc.
+All Rights Reserved
+ 

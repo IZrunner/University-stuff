@@ -1,0 +1,3 @@
+﻿  3_Bin_files.cpp
+c:\users\1710809\desktop\3_binary_files\3_bin_files\3_bin_files\3_bin_files.cpp(27): warning C4244: 'initializing': conversion from 'std::streamoff' to 'long', possible loss of data
+  3_Bin_files.vcxproj -> C:\Users\1710809\Desktop\3_Binary_files\3_Bin_files\Debug\3_Bin_files.exe

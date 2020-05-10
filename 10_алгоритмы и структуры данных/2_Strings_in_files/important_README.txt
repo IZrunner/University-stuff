@@ -1,0 +1,1 @@
+Project->Properties->Configuration Properties->Character Set = Use Multi-Byte Character Set 

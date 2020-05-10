@@ -1,0 +1,601 @@
+; Created by Alfio Ferlito
+
+;===============================================================================
+"Cancel"="Cancella"
+"Help"="Guida"
+"Info"="Info"
+"Error"="Errore"
+"Confirm"="Conferma"
+"&Yes"="&Si"
+"&No"="&No"
+"Delete"="Elimina"
+"Ready"="Pronto"
+"Not enough memory"="Memoria insufficiente"
+"(Empty)"="(Vuoto)"
+"item"="argomento"
+"items"="argomenti"
+"Table:"="Tabella:"
+"This value must be a positive\nnumber up to %s"="Questo valore deve essere un \nnumero positivo minore di%s"
+"This value must be a natural\nnumber up to %s"="Questo valore deve essere un \nnumero naturale minore di%s"
+"This value must be an integer\nfrom %s up to %s"="Questo valore deve essere un \nnumero intero minore di%s"
+"This value must be a number\nfrom %s up to %s"="Questo valore deve essere un numero\ncompreso tra %s e %s"
+"Maximum of %s must be more\nthan minimum of %s"="Il massimo di %s deve essere maggiore\ndel minimo di %s"
+
+;===============================================================================
+; Graph Types
+"polar coordinate system"="sistema di coordinate polari"
+"X(t) and Y(t) - parametrical equations"="X(t) e Y(t) - equazioni parametriche"
+"f(x,y)>|=|<0 - equation or inequality"="f(x,y)>|=|<0 - equazione o disequazione "
+"dy/dx or dx/dy - slope field"="Campo dei valori di dy/dx o dx/dy"
+"Table"="Tabella"
+
+;===============================================================================
+; Error Types
+"Syntax error"="errore di sintassi"
+"Not enough ')'"="non abbastanza ')'"
+"Not enough '('"="non abbastanza '('"
+
+;===============================================================================
+;Toolbar Manager
+"Rename Toolbar"="Rinomina Toolbar"
+"&Toolbar name:"="&Nome Toolbar"
+"Are you sure you want to reset the changes made to the '%s' toolbar?"="Sei sicuro di voler annullare le modifiche fatte alla '%s' toolbar?"
+"This will delete the record of the commands you've used in this application and restore the default set of visible commands to the menus and toolbars. It will not undo any explicit customizations.   Are you sure you want to proceed?"="Questo cancellerà la registrazione dei comandi che hai usato in questa applicazione e ripristinare il default set di comandi visibili ai menù e alle toolbars. Non sarà possibile ripristinare alcuna impostazione personalizzata.   Sei sicuro di voler procedere?"
+"Are you sure you want to delete the '%s' toolbar?"="Sei sicuro di voler cancellare la '%s' toolbar?"
+"Personalized Menus and Toolbars"="Menù e Toolbars Personalizzati"
+"Me&nus show recently used commands first"="Il me&nù mostra per prima i comandi usati di recente"
+"Show f&ull menus after a short delay"="E mostra l'intero menuù dopo un piccolo ritardo"
+"&Reset my usage data"="&Resetta i miei dati di utilizzo"
+"A command name cannot be blank. Please enter a name."="Un nome di comando non può essere vuoto. Per favore scegli un nome."
+"A toolbar named '%s' already exists. Type another name."="Una toolbar con il nome '%s' esiste già. Digita un altro nome."
+"Toolbars"="Barra degli strumenti"
+"Commands"="Comandi"
+"Options"="Opzioni"
+"Toolb&ars:"="Toolb&ars:"
+"&New..."="&Nuovo..."
+"R&ename..."="R&inomina..."
+"&Delete"="&Cancella"
+"&Reset..."="&Resetta..."
+"Cate&gories:"="Tipo&logie:"
+"Comman&ds:"="Coman&di:"
+"Description"="Descrizione"
+"&Customize..."="&Personalizza..."
+"&Add or Remove Buttons"="Aggiungi o Rimuovi Pulsanti"
+"More Buttons"="Più Pulsanti"
+"&Reset Toolbar"="&Resetta la Toolbar"
+"&Name:"="&Nome:"
+"Defa&ult style"="Stile di Defa&ult"
+"&Text Only (Always)"="&Solo Testo (Sempre)"
+"Text &Only (in Menus)"="Solo &Testo (nei Menù)"
+"Image &and Text"="Immagine &e Testo"
+"Begin a &Group"="Comincia un&Gruppo"
+"Other"="Altri"
+"&Large icons"="Icone Grandi"
+"Show Tool&Tips on toolbars"="Mostra suggerimenti sulle toolbars"
+"Show s&hortcut keys in ToolTips"="Mostra t&asti di scelta rapida nei suggerimenti"
+"&Menu animations:"="&Menù animazioni:"
+"(None)"="(Nessuno)"
+"Random"="(Casuale)"
+"Unfold"="(Massimizza)"
+"Slide"="(Sezione)"
+"Custom"="Personalizzato"
+
+;===============================================================================
+;Menu and Toolbars
+"Main Menu"="Menù Principale"
+"Standard"="Standard"
+"Graph"="Grafico"
+"Calculus"="Calcolo"
+
+;===============================================================================
+;Categories
+"File"="File"
+"Edit"="Modifica"
+"View"="Vista"
+"Graphs"="Grafico"
+"Calculus"="Calcolo"
+"Window"="Finestra"
+"Help"="Guida"
+"Menus"="Menù"
+"Intervals"="Intervalli"
+"Properties"="Proprietà"
+
+;===============================================================================
+;File
+"&File"="&File"
+"&New"="&Nuovo"
+"&Open..."="&Apri..."
+"I&mport Table..."="I&mporta Tabella..."
+"&Save"="&Salva"
+"Save &As..."="Salva &con nome..."
+"Save As Pict&ure..."="Salva come &immagine..."
+"E&xport Table..."="E&sporta Tabella..."
+"Pa&ge Setup..."="I&mposta pagina..."
+"&Print..."="&Stampa..."
+"List of recently used files"="Elenco dei file usati di recente"
+"&Exit"="&Esci"
+
+;===============================================================================
+;Edit
+"&Edit"="&Modifica"
+"&Undo"="&Annulla"
+"&Redo"="&Ripeti"
+"&Copy As Picture..."="Copia come &immagine..."
+"Draw &Labels"="Disegno &Etichette"
+"&Options..."="&Opzioni..."
+
+;===============================================================================
+;View
+"&View"="&Visualizza"
+"&Graph List"="&Lista dei grafici"
+"&Toolbars"="&Toolbars"
+"&Flat Interface"="&Interfaccia Piatta"
+"&Full Screen"="&Schermo intero"
+
+;===============================================================================
+;Graphs
+"&Graphs"="&Grafico"
+"&Add Graph..."="&Aggiungi grafico..."
+"Add &Table Graph..."="Aggiungi &Tabella Grafico..."
+"Delete Graph"="Elimina grafico"
+"Duplicate Graph"="Raddoppia grafico"
+"&Finish Calculating"="&Termina il computo"
+"&Document Properties..."="&Proprietà del Documento..."
+"&Sets of Properties"="&Set delle Proprietà"
+"Standard &Properties"="Proprietà &Standard"
+"&Standard Intervals"="&Intervalli standard"
+"&Trigonometrical Set"="&Insieme Trigonometrico"
+"Default &Graph Properties..."="Proprietà &di Default per i grafici..."
+
+;===============================================================================
+;Calculus
+"&Calculus"="&Calcolo"
+"Calc&ulator"="Calc&olatrice"
+"&Function Calculator..."="&Funzione Calcolatrice..."
+"&Value Table..."="&Tabella dei valori..."
+"&Analyze Function..."="&Analizza funzione..."
+"Inter&sections..."="Inter&sezione..."
+"&Derivative..."="&Derivata..."
+"&Tangent or Normal..."="&Tangente e normale..."
+"&Integration..."="&Integrazione..."
+"&Regression..."="&Regressione..."
+
+;===============================================================================
+;Window
+"&Window"="&Finestra"
+"&Cascade"="&Riduci"
+"Tile &Horizontally"="Estendi &Orizzontalmente"
+"Tile &Vertically"="Estendi &Verticalmente"
+"&Arrange Icons"="&Disponi icone"
+"&Minimize All"="&Minimizza tutto"
+"List of Current Windows"="Elenco Delle Finestre Correnti"
+
+;===============================================================================
+;Help
+"&Help"="&Guida"
+"&Contents"="&Guida in linea"
+"&About..."="&Informazioni sul programma..."
+
+;===============================================================================
+;Intervals
+"Zoom Out X and Y"="Zoom Out X e Y"
+"Zoom Out Y"="Zoom Out Y"
+"Zoom Out X"="Zoom Out X"
+"Zoom In X and Y"="Zoom In X e Y"
+"Zoom In Y"="Zoom In Y"
+"Zoom In X"="Zoom In X"
+"Move to the left"="Muovi a sinistra"
+"Move to the right"="Muovi a destra"
+"Move upwards"="Muovi sopra"
+"Move downwards"="Muovi sotto"
+"Select interval"="Seleziona intervallo"
+"Center view"="Centra visuale"
+
+;===============================================================================
+;Properties
+"Graph List"="Lista grafici"
+"Draw Graph"="Disegna grafico"
+"Draw with Lines"="Disegna con linee"
+"Line Width"="Spesore linea"
+"Style of Shading"="Stile di ombregg."
+"Draw with Points"="Disegna punteggiato"
+"Point Size"="Dimensione punto"
+"Point Style"="Stile punto"
+"Line Style"="Stile linee"
+"Graph Color"="Colore grafico"
+"Properties"="Proprietà"
+"Graph Properties"="Proprietà grafico"
+"Trace"="Segui grafico"
+
+;===============================================================================
+;Other items
+"Horizontal Grid Lines"="Linee griglia orizzontali"
+"Vertical Grid Lines"="Linee griglia verticali"
+"Advanced Grapher files (*.agr)"="FIle Advanced Grapher (*.agr)"
+"All files (*.*)"="Tutti i file (*.*)"
+"Bitmap files (*.bmp)"="File btmap (*.bmp)"
+"EMF files (*.emf)"="File EMF (*.emf)"
+"GIF files (*.gif)"="File GIF (*.gif)"
+"Text files (*.txt)"="File testo (*.txt)"
+"Text files (*.txt;*.csv)"="File testo (*.txt;*.csv)"
+
+"Converting to EMF:"="Conversione in EMF:"
+"Saving EMF:"="Salvataggio come EMF:"
+"Creating picture..."="Creazione immagine..."
+"Saving picture..."="Salvataggio immagine..."
+"Printing..."="Stampa..."
+"Printing"="Stampa"
+"Copying picture..."="Copia immagine..."
+"Graph N"="Grafico N"
+"Press Esc to interrupt the calculation"="Premi ESC per interrompere il calcolo"
+
+;===============================================================================
+;Questions
+"Save changes to %s?"="Salva scelte su %s"
+"Do you want to remove the graph?"="Vuoi eliminare il grafico?"
+
+;===============================================================================
+;Error messages
+"Incorrect format of the file"="Formato file non corretto"
+"Cannot load file"="Non riesco ad aprire il file"
+"Cannot save file"="Non riesco a salvare il file"
+"Number of graphs cannot be more than %s"="Il number di grafici non può essere maggiore di %s"
+"Too large absolute value of the boundary of X interval"="Il valore assoluto dell'intervallo di X è troppo grande"
+"Too large absolute value of the boundary of Y interval"="Il valore assoluto dell'intervallo di Y è troppo grande"
+"Too small interval of X"="Intervallo su X troppo piccolo"
+"Too small interval of Y"="Intervallo su Y troppo piccolo"
+"Too large value of the boundary of the interval\n(in view of the logarithmic scale)"="Il valore dell'intervallo nella rappresentazione in scala logaritmica è troppo grande"
+"File write error"="Errore in scrittura file"
+"File read error"="Errore in lettura file"
+"Out of system resources"="Risorse del sistema esaurite"
+"There are no table graphs"="Non ci sono grafici tabella"
+
+;===============================================================================
+;Document Properties
+"Plot"="Disegna"
+"Intervals"="Intervalli"
+"Plot Options"="Opzioni disegno"
+"Coefficients"="Coefficienti"
+"Minimum of X"="Minimo di X"
+"Maximum of X"="Massimo di X"
+"Minimum of Y"="Minimo di Y"
+"Maximum of Y"="Massimo di Y"
+"Plot parameters"="Parametri del disegno"
+"Number of steps"="Numero passi"
+"Maximum gap"="Massimo gap"
+"Point align"="Allinea punto"
+"Coefficient on X-Axis"="Coefficiente sull'asse X"
+"Coefficient on Y-Axis"="Coefficiente sull'asse Y"
+"Base"="Base"
+"Logarithmic Scale"="Scala logaritmica"
+"Maximum of X must be more\nthan minimum of X"="Il massimo di X deve essere maggiore del minimo di X"
+"Maximum of Y must be more\nthan minimum of Y"="Il massimo di Y deve essere maggiore del minimo di Y"
+"Axes"="Assi"
+"Equal scale of marks"="Spaziatura scale uguale"
+"X-Axis"="Asse X"
+"Y-Axis"="Asse Y"
+"Direction"="Direzione"
+"Left -> Right"="Sinistra -> Destra"
+"Right -> Left"="Destra -> Sinistra"
+"Bottom -> Top"="Sotto -> Sopra"
+"Top -> Bottom"="Sopra -> Sotto"
+"Style"="Stile"
+"Width"="Larghezza"
+"Arrow"="Freccia"
+"Color"="Colore"
+"Axis name"="Nome asse"
+"Color like X-Axis"="Colore asse X"
+"Color like Y-Axis"="Colore asse Y"
+"Font..."="Carattere..."
+"Ticks"="Graduazioni"
+"Ticks Along X-Axis"="Graduazioni sull'Asse X"
+"Ticks Along Y-Axis"="Graduazioni sull'Asse Y"
+"Step"="Passo"
+"Axis color"="Colore assi"
+"Custom color"="Colore person."
+"Length"="Lunghezza"
+"Labels"="Etichette"
+"Labels Along X-Axis"="Etichette lungo l'asse X"
+"Labels Along Y-Axis"="Etichette lungo l'asse Y"
+"Additional string"="Stringa aggiuntiva"
+"To the top of X-Axis"="Al di sopra dell'asse X"
+"To the left of Y-Axis"="Alla sinistra dell'asse Y"
+"Grid"="Griglia"
+"Cartesian"="Cartesiano"
+"Polar"="Polare"
+"Horizontal Lines"="Linee orizzontali"
+"Vertical Lines"="Linee verticali"
+"Radial Grid"="Griglia radiale"
+"Angular Grid"="Griglia angolare"
+"Background color"="Colore sfondo"
+"View"="Vista"
+"Titles"="Titolo"
+"Top"="Top"
+"Bottom"="Fondo"
+"Left"="Sinistra"
+"Right"="Destra"
+"Crossed"="In croce"
+"Boxed"="Confinati"
+"Legend"="Legenda"
+"Show samples"="Mostra alcuni esempi"
+"Text color as graphs"="Imposta stesso colore per testo e grafico"
+"Position"="Posizione"
+"Center"="Centra"
+"Description"="Descrizione"
+"Apply"="Applica"
+"Save as default"="Salva come default"
+
+;===============================================================================
+;Save As Picture Form
+"Picture Size"="Dimensioni immagine"
+"Width (pixels)"="Larghezza (pixels)"
+"Height (pixels)"="Altezza (pixels)"
+"Picture Format"="Formato immagine"
+"Scale factor"="Fattore di Scala"
+"File name:"="Nome file"
+"Browse..."="Sfoglia..."
+"File already exists. Overwrite it?"="Il file esiste già, sovrascrivo?"
+
+;===============================================================================
+;Calculator Form
+"Formula"="Espressione"
+"Variable"="Variabile"
+"Result"="Risultato"
+"Calculate"="Calcola"
+"The name of the variable must\nbe a letter of the latin alphabet"="Il nome della variabile deve essere una lettera dell'alfabeto latino"
+"The value of the variable must be a number"="Il nome della variabile deve essere un numero"
+"Too large value of the variable"="Valore della variabile troppo grande"
+"Empty formula"="Espressione vuota"
+
+;===============================================================================
+;Options Form
+"Confirmations"="Conferma"
+"Others"="Altre"
+"New color for new graph"="Colore nuovo per ogni nuovo grafico"
+"Change steps when intervals changed"="Cambia passo se l'intervallo cambia"
+"Show background in the graph list"="Mostra sfondo nell'elenco dei grafici"
+"Show splash screen"="Informazioni"
+
+;===============================================================================
+;Copy to Clipboard Form
+"Copy to Clipboard"="Copia negli appunti"
+
+;===============================================================================
+;Derivative Form
+"Derivative"="Derivata"
+"Cannot calculate derivative for this graph type"="Non posso calcolare la derivata per questo tipo di grafico"
+"Too large expression for derivation"="Espressione troppo grande per la derivazione"
+"The expression contains nondifferentiable function or operation"="L'espressione contiene funzioni o operazione non differenziabili"
+"Too long formula of the derivative"="Espressione della derivata troppo lunga"
+
+;===============================================================================
+;Integral Form
+"Parameters"="Parametri"
+"Definite Integral"="Integrale definito"
+"Between: Y(x)="="Tra: Y(x)"
+"and Y(x)="="e Y(x)"
+"Integration of absolute value (area)"="Integraledel valore assoluto (area)"
+"Number of integration steps"="Numero dei passi di integrazione"
+"Calculation interrupted"="Calcolo interrotto"
+"Error at function evaluation"="Errore nella valutazione della funzione"
+"Too large value of the integral"="Valore dell'integrale troppo grande"
+"Too long formulas"="Formula troppo lunga"
+
+;===============================================================================
+;Modify Table Form
+"Modify Table"="Modifica tabella"
+"Modify"="Modifica"
+"Fill Table"="Riempi tabella"
+"Fill"="Riempi"
+"All"="Tutto"
+"Custom:  from"="Personal.: da"
+"up to"="fino a"
+"Lower limit cannot exceed upper limit"="Il limite inferiore non può superare quello superiore"
+"Interval"="Intervallo"
+
+;===============================================================================
+;Table File Format Form
+"File Format"="Formato file"
+"File Form"="Forma del file"
+"Vertical (columns)"="verticale (colonne)"
+"Horizontal (rows)"="orizzontale (righe)"
+"Table File Format"="Tabella formato file"
+
+;===============================================================================
+;Print Graphs Form
+"Print Graphs"="Disgna grafico"
+"Print Options"="Opzioni disegno"
+"Black and white only"="Solo B/N"
+"Page setup..."="Impostaz. pagina"
+
+;===============================================================================
+;Regression Form
+"Regression Type"="Tipo regressione"
+"Linear: y=a*x+b"="Lineare: y=a*x+b"
+"Hyperbolic: y=a/x+b"="Iperbolica: y=a/x+b"
+"Logarithmic: y=a*ln(x)+b"="Logaritmica: y=a*ln(x)+b"
+"Power: y=a*x^b"="Potenza: y=a*x^b"
+"Exponential: y=a*exp(b*x)"="Esponenziale: y=a*exp(b*x)"
+"Exponential II: y=a*b^x"="Esponenziale II: y=a*b^x"
+"Polynomial: y=b+a1*x+a2*x^2+...+an*x^n"="Polinomiale: y=b+a1*x+a2*x^2+...+an*x^n"
+"Best Fit Curve"="Curva di Best Fit"
+"Goodness of Fit"="Bontà del fit"
+"Not enough numbers for regression"="Dati non sufficienti per la regressione"
+"Error data for this regression type"="Errore nei dati per la regressione"
+"Standard deviation"="Deviazione std."
+
+;===============================================================================
+;Analysis Results Form
+"Analysis Results"="Risultato analisi"
+"Analysis Parameters"="Parametri analisi"
+"Save To File..."="Salvo nel file..."
+"Save Analysis Results"="Salva risultato analisi"
+"interrupted"="interrotto"
+"Zeroes of function: not calculated"="Zeri della funzione: non calcolati"
+"Zeroes of function: none"="Zeri della funzione: nessuno"
+"Zeroes of function:"="Zeri della funzione"
+"Extrema: not calculated"="Estremi: non calcolati"
+"Extrema: none"="Estremi: nessuno"
+"Extrema:"="Estremi:"
+"Analysis of function"="Studio della funzione"
+"Copy error"="Errore di copia"
+"Number of steps"="Numero passi"
+"Accuracy (decimal signs)"="Accuratezza (cifre decimali)"
+"Close"="Chiudi"
+
+;===============================================================================
+;Analyze Function Form
+"Calculations"="Calcolo"
+"Zeroes of Function"="Zeri della funzione"
+"Extrema"="Limiti"
+"Use derivative"="Usa le derivate"
+"Not marked on an evaluation neither zeros\nnor extrema of function"="Non contrassegnato da calcolo, non zero o estremo della funzione"
+"It is impossible to calculate extrema with\nthe help of analytically obtained derivative\nas the formula contains nondifferentiable function\nor operation"="Impossibile calcolare gli estremi con l'aiuto di derivate analitiche\nl'espressione contiene funzioni o operazione non differenziabili"
+"It is impossible to calculate extrema with\nthe help of analytically obtained derivative\nas the formula is too long for derivation"="Impossibile calcolare gli estremi con l'aiuto di derivate analitiche\nl'espressione è troppo estesa per la derivazione"
+
+;===============================================================================
+;Default Graph Properties Form
+"Default Graph Properties"="Proprietà preimpostate del grafico"
+"Lines"="Linee"
+"Points"="Punti"
+"Size"="Dimen."
+"X(t) and Y(t)"="X(t) ed Y(t)"
+"Equation or Inequality"="Equzione o disequazione"
+"Slope Field"="Campo dei valori"
+
+;===============================================================================
+;Graph Properties Form
+"Add'l Properties"="Aggiungi proprietà"
+"Data Manipulation"="Manipolazione dei dati"
+"Insert"="Inserisci"
+"Swap"="Scambio"
+"Sort"="Ordina"
+"Purge"="Rimuovi"
+"By X - Ascending"="Secondo la X - crescente"
+"By X - Descending"="Secondo la X - decrescente"
+"By Y - Ascending"="Secondo la Y - crescente"
+"By Y - Descending"="Secondo la Y - decrescente"
+"Type of sorting"="Tipo di ordinamento"
+"On X"="Su X"
+"On Y"="Su Y"
+"None"="Nessuno"
+"Number of steps on hor."="Numero passi in orizz."
+"Number of steps on vert."="Numero di passi in vert."
+"Number of hor. series"="Numero di gruppi in orizz."
+"Number of vert. series"="Numero di gruppi in vert."
+"Line length"="Lunghezza della linea"
+"Minimum of %s"="Minimo di %s"
+"Maximum of %s"="Massimo di %s"
+"Cut"="Taglia"
+"Copy"="Copia"
+"Paste"="Incolla"
+"Smoothing"="Smussare"
+"Curve quality"="Qualità curva"
+"Low"="Bassa"
+"Medium"="Media"
+"High"="Alta"
+
+;===============================================================================
+;Table Info Form
+"Table Info"="Informazioni tabella"
+"Minimum"="Minimo"
+"Maximum"="Massimo"
+"Arithmetic mean"="Media aritmetica"
+"Mean square"="Media quadratica"
+"Std. deviation"="Deviazione std."
+
+;===============================================================================
+;Tangent or Normal Form
+"Tangent"="Tangente"
+"Normal"="Normale"
+"Find"="Trova"
+"Point To Find Tangent/Normal"="Punto in cui trovare la Tangente/Normale"
+"It is impossible to plot a tangent/normal"="Impossibile disegnare la Tangente/Normale"
+"Too large absolute value of variable"="Valore assoluto della variabile troppo grande"
+"Error of the determination of the equation of the tangent"="Errore nella determinazione dell'equazione della tangente"
+"Error of the determination of the equation of the normal"="Errore nella determinazione dell'equazione della normale"
+
+;===============================================================================
+;Trace Form
+"Values"="Valori"
+"The table is empty"="La tabella è vuota"
+"The tracing is impossible"="Il tracciamento è impossibile"
+"There are no values"="Non ci sono valori"
+
+;===============================================================================
+;Value Table Form
+"from"="da"
+"Save..."="Salva..."
+"Save Value Table"="Salva la tabella valori"
+"Maximum of the variable must be more\nthan minimum of the variable"="Il massimo della variabile deve essere maggiore del suo minimo"
+"Too many values to calculate"="Troppi valori da calcolare"
+
+;===============================================================================
+;Undo Manager
+"&Undo Change options"="&Annulla cambia opzioni"
+"&Undo Delete graph"="&Annulla cancella grafico"
+"&Undo Change graph properties"="&Annulla cambia proprietà grafico"
+"&Undo Add graph"="&Annulla aggiungi grafico"
+"&Undo Change graphs order"="&Annulla cambia ordine grafici"
+"&Undo Delete label"="&Annulla Cancellazione etichetta"
+"&Undo Change label properties"="&Annulla Modifica proprietà etichetta"
+"&Undo Add label"="&Annulla Aggiungi etichetta"
+"&Redo Change options"="&Ripeti cambia opzioni"
+"&Redo Delete graph"="&Ripeti cancella grafico"
+"&Redo Change graph properties"="&Ripeti cambia proprietà grafico"
+"&Redo Add graph"="&Ripeti aggiungi grafico"
+"&Redo Change graphs order"="&Ripeti cambia ordine grafici"
+"&Redo Delete label"="&Ripeti Cancellazione etichetta"
+"&Redo Change label properties"="&Ripeti Cambia proprietà etichetta"
+"&Redo Add label"="&Ripeti Aggiunfi etichetta"
+
+;===============================================================================
+;Copy Table Form
+"Copy Table"="Copia Tabella"
+"Columns"="Colonne"
+"Options"="Opzioni"
+"Decimal separator"="Separatore decimale"
+"At least one column must be selected"="Almeno una colonna deve essere selezionata"
+
+;===============================================================================
+;Find Form
+"Value to find"="Valore da cercare"
+"Forward"="Avanti"
+"Backward"="Precedente"
+"Value not found"="Valore non trovato"
+"The value must be a number"="Il valore deve essere un numero"
+"Too large absolute value"="Valore assoluto troppo grande"
+
+;===============================================================================
+;Intersections Form
+"Intersections"="Intersezioni"
+"Intersection points: not calculated"="Punti di intersezione: non calcolati"
+"Intersection points:"="Punti di intersezione:"
+"Intersection points: none"="Punti di intersezione: nessuno"
+
+;===============================================================================
+;Replace Form
+"Replace"="Sostituisci"
+"Replace with"="Sostituisci con"
+"Prompt on replace"="Sostituisci successivo"
+"Replace all"="Sostituisci tutti"
+"Replace this value?"="Sostituire questo valore?"
+
+;===============================================================================
+;Save Table Form
+"Number Format"="Formato numerico"
+
+;===============================================================================
+;Differ
+"Information"="Informazioni"
+"All"="Tutto"
+"Cut Table"="Taglia Tabella"
+"Calculating..."="Sto calcolando..."
+
+;===============================================================================
+;Labels
+"New Label"="Nuova etichetta"
+"Label Properties"="Proprietà dell'etichetta"
+"Transparent"="Trasparente"
+"Delete the label"="Cancella l'etichetta"
+"Empty text"="Testo vuoto"
